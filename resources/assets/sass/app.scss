@@ -8,3 +8,10 @@
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+//Dropzone
+@import "node_modules/dropzone/src/dropzone";
+
+.dropzone{
+    margin-top: 20px;
+    min-height: auto;
+}
